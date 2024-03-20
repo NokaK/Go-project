@@ -5,7 +5,7 @@ import (
 	"math/rand"
 )
 
-
+//find rendom item from slice
 type Items struct {
 	name string
 	age int
